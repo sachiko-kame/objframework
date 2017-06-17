@@ -10,7 +10,7 @@
 		846569441EF5674B00B472BB /* objframework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8465693A1EF5674B00B472BB /* objframework.framework */; };
 		846569491EF5674B00B472BB /* objframeworkTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 846569481EF5674B00B472BB /* objframeworkTests.m */; };
 		8465694B1EF5674B00B472BB /* objframework.h in Headers */ = {isa = PBXBuildFile; fileRef = 8465693D1EF5674B00B472BB /* objframework.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		846569561EF5676F00B472BB /* sample1.h in Headers */ = {isa = PBXBuildFile; fileRef = 846569541EF5676F00B472BB /* sample1.h */; };
+		846569561EF5676F00B472BB /* sample1.h in Headers */ = {isa = PBXBuildFile; fileRef = 846569541EF5676F00B472BB /* sample1.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		846569571EF5676F00B472BB /* sample1.m in Sources */ = {isa = PBXBuildFile; fileRef = 846569551EF5676F00B472BB /* sample1.m */; };
 /* End PBXBuildFile section */
 
