@@ -10,6 +10,8 @@
 		846569441EF5674B00B472BB /* objframework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8465693A1EF5674B00B472BB /* objframework.framework */; };
 		846569491EF5674B00B472BB /* objframeworkTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 846569481EF5674B00B472BB /* objframeworkTests.m */; };
 		8465694B1EF5674B00B472BB /* objframework.h in Headers */ = {isa = PBXBuildFile; fileRef = 8465693D1EF5674B00B472BB /* objframework.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		846569561EF5676F00B472BB /* sample1.h in Headers */ = {isa = PBXBuildFile; fileRef = 846569541EF5676F00B472BB /* sample1.h */; };
+		846569571EF5676F00B472BB /* sample1.m in Sources */ = {isa = PBXBuildFile; fileRef = 846569551EF5676F00B472BB /* sample1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +31,8 @@
 		846569431EF5674B00B472BB /* objframeworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = objframeworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		846569481EF5674B00B472BB /* objframeworkTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = objframeworkTests.m; sourceTree = "<group>"; };
 		8465694A1EF5674B00B472BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		846569541EF5676F00B472BB /* sample1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sample1.h; sourceTree = "<group>"; };
+		846569551EF5676F00B472BB /* sample1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = sample1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +77,8 @@
 			children = (
 				8465693D1EF5674B00B472BB /* objframework.h */,
 				8465693E1EF5674B00B472BB /* Info.plist */,
+				846569541EF5676F00B472BB /* sample1.h */,
+				846569551EF5676F00B472BB /* sample1.m */,
 			);
 			path = objframework;
 			sourceTree = "<group>";
@@ -93,6 +99,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				846569561EF5676F00B472BB /* sample1.h in Headers */,
 				8465694B1EF5674B00B472BB /* objframework.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -197,6 +204,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				846569571EF5676F00B472BB /* sample1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
