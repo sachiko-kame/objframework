@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "sample1.h"
 
 //! Project version number for objframework.
 FOUNDATION_EXPORT double objframeworkVersionNumber;
