@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface sample1 : NSObject
-
+-(void)sampletext;
 @end

@@ -9,5 +9,7 @@
 #import "sample1.h"
 
 @implementation sample1
-
+-(void)sampletext{
+    NSLog(@"frameworkで作成したログです");
+}
 @end
